@@ -1,0 +1,1 @@
+178:9175d7a2:{"uri":"file:///Stable-617509619216886.java","version":0,"fullText":"public class Stable {\n    void m(int zebra, int apple) {\n        int mango = 1;\n        MARK\n    }\n}\n"}
